@@ -46,7 +46,7 @@ Algo sobre mí : Me gusta caminar
 
 1. Como conectar un repositorio ya creado con Github
 2. Como instalar git desde Windows
-3. Conocer la existencia de BitKeeper
+3. Conocer la existencia de BitKeeper 
 
 ---
 
