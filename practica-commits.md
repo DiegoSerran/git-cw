@@ -23,7 +23,7 @@ Algo sobre mí : Me gusta caminar
 **Qué hacer:** Agrega al menos tres cosas que sabes hacer (no tienen que ser de programación).  
 **Commit:** `feat(habilidades): agrega lista de habilidades`
 
-- 
+- Se hacer corlota de limón, utilizar un yoyo y utilizar tijeras
 
 ---
 
