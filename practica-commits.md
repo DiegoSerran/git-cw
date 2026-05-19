@@ -57,12 +57,12 @@ Algo sobre mí : Me gusta caminar
 
 | Comando | ¿Qué hace? |
 |---------|------------|
-| `git init` | |
-| `git status` | |
-| `git add .` | |
-| `git commit -m "..."` | |
-| `git log --oneline` | |
-| `git push` | |
+| `git init` | Inicia un repositorio de manera Local|
+| `git status` | Muestra el estado del directorio|
+| `git add .` | Añade los archivos para despues hacer un commit|
+| `git commit -m "..."` | Guarda los cambios y permite agregar una descripción|
+| `git log --oneline` | Te muestra todos los commits realizados de menera corta|
+| `git push` | Sube un commit a un repositorio remoto|
 
 ---
 
